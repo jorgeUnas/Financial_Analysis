@@ -19,8 +19,8 @@ The median for the Aerospace and Defense industry average was lower than the ave
 
 #### P&L Statement
 
-<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/P%26L_Statement.png" alt="P&L Statement"> 
+<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/P%26L_Statement_MMM.png" alt="P&L Statement"> 
 
 #### Forecasting model
 
-<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model.png" alt="Forecasting model"> 
+<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model_MMM.png" alt="Forecasting model"> 
