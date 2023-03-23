@@ -22,6 +22,6 @@ In the second part of the project I did a dashboard to show the P&L statement of
 
 <img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/P%26L_Statement_MMM.png" alt="P&L Statement"> 
 
-#### **Forecasting model**
+#### **Forecasting model** 
 
 <img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model_MMM.png" alt="Forecasting model"> 
