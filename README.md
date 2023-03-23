@@ -3,7 +3,7 @@
 ### **Project Overview**
 In this project I used real-life data from the New York Stock Exchange during the period of 2012-2016. This data, which is available in kaggle.com, contains information of the S&P 500 companies. Three kind of analysis were applied using spreadsheets: 
 - The use of summary statistics like mean, median and standard deviation to compare the performance of the companies in terms of financial metrics.
-- The creation of a dashboard for the profit and lost statement of each company in every year. 
+- The creation of a dashboard for the profit and lost statement (P&L statement) of each company in every year. 
 - The implementation of an interactive forecasting model including 3 posible scenarios. 
 
 #### **Summary Statistics**
@@ -18,6 +18,7 @@ The figures 2 and 3 are the histograms for the revenue of the two sub-industrial
 The median for the Aerospace and Defense industry average was lower than the average which means, the distribution of the total revenue for this sub-industry is right-skewed, with 50% of their companies receiving more than 31.1 billion dollars (median value). On the other hand, the median (about 3.80 billion dollars) for the Technology, Hardware, Software and Supplies revenue was higher than its average (about 3.75 billion dollars) indicating that this distribution is left-skewed.
 
 #### **P&L Statement**
+In the second part of the project I did a dashboard to show the P&L statement of any of the S&P 500 companies. I included a dropdown in the top-left of the sheet to select just one company at a time and imported data from the main sheet using the INDEX() and MATCH() functions. The figure 4 shows the P&L statement for the company 3M (Ticker symbol MMM). 
 
 <img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/P%26L_Statement_MMM.png" alt="P&L Statement"> 
 
