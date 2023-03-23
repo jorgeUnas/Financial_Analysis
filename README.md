@@ -23,6 +23,6 @@ In the second part of the project I did a dashboard to show the P&L statement of
 <img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/P%26L_Statement_MMM.png" alt="P&L Statement"> 
 
 #### **Forecasting model** 
-
+A forecasting model of the 3M financial performance for the next 2 year was done. In this model just the revenue, the gross profit and the operating profit were forecasted and included in the P&L statement on the top of the dashboard. Aditional metrics like the Revenue growth, gross margin and operating margin were calculated in order to create 3 possible scenarios (weak, base and strong) for the two upcoming years. Some assuptions were made related to the value of the 3 last commented metrics. For example, for the strong scenario it was assumed that the  
 
 <img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model_3M.png" alt="Forecasting model"> 
