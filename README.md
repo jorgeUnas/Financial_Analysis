@@ -24,6 +24,6 @@ In the second part of the project I did a dashboard to show the P&L statement of
 
 #### **Forecasting model** 
 A forecasting model of the 3M financial performance for the next 2 year was done (figure 5). Forecasted values for the revenue, the gross profit and the operating profit were calculated and included in the P&L statement (on the top of the dashboard). Aditional metrics like the Revenue growth, gross margin and operating margin were calculated in order to create 3 possible scenarios (weak, base and strong) for the two upcoming years. Some assuptions for these metrics were made according to their historical values. For example, for the strong scenario it was assumed that the metrics will have the maximum values over the historical data (see the 2 table labeled operating statistics). All the usumptions for each scenario are shown in the table 3 (labeled Operating scenarios - sensitivity analysis) and using OFFSET() function these values are interactevely put in the second table depending of the scenario selected in the dropdown (cell filled in yellow).  
-<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model_3M.png" alt="Forecasting model"> 
+<img src="https://github.com/jorgeUnas/Financial_Analysis/blob/main/Forecasting_Model_3MM.png" alt="Forecasting model"> 
 
 
